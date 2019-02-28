@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "532842992013",
+    "firebase_url": "https://sdt-messenger.firebaseio.com",
+    "project_id": "sdt-messenger",
+    "storage_bucket": "sdt-messenger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532842992013:android:df0fefeef48f6804",
+        "android_client_info": {
+          "package_name": "in.sdtechnocrat.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532842992013-vifg23ar7gra5nc8kuj3oq6evjgro966.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.sdtechnocrat.messenger",
+            "certificate_hash": "462bf1c1f214739736bba07ad88cc5fd7a5611d2"
+          }
+        },
+        {
+          "client_id": "532842992013-u4hai075rnpfldf0jrda2um320t6gqcg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRWL_AXokooNZBpq3syEkLNcvO2DGNMUM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532842992013-u4hai075rnpfldf0jrda2um320t6gqcg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
